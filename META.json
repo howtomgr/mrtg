@@ -1,0 +1,60 @@
+{
+  "category": "network-monitoring",
+  "created_date": "2025-09-15T22:48:58.280282",
+  "default_ports": [
+    80,
+    443
+  ],
+  "dependencies": [],
+  "description": "mrtg is a free and open-source traffic grapher. MRTG provides tool to monitor traffic load on network links",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/network-monitoring/mrtg",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/network-monitoring/mrtg",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.280301",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "mrtg",
+  "repository_url": "https://github.com/howtomgr/mrtg",
+  "spec_version": "2.0",
+  "subcategory": "network-monitoring",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "network-monitoring",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "mrtg Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/network-monitoring/mrtg"
+}
